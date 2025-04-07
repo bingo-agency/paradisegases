@@ -1,0 +1,2 @@
+/Users/hassan/vs_projects/paradise_gases/android/app/.cxx/RelWithDebInfo/2x1f161p/x86/CMakeFiles/edit_cache.dir
+/Users/hassan/vs_projects/paradise_gases/android/app/.cxx/RelWithDebInfo/2x1f161p/x86/CMakeFiles/rebuild_cache.dir

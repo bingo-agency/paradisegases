@@ -1,0 +1,2 @@
+/Users/hassan/vs_projects/paradise_gases/android/app/.cxx/Debug/h23l4w4b/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/hassan/vs_projects/paradise_gases/android/app/.cxx/Debug/h23l4w4b/armeabi-v7a/CMakeFiles/rebuild_cache.dir
